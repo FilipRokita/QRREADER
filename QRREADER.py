@@ -10,5 +10,5 @@ if sys.argv[1:]:
     print("aaa")
 else:
     print("\n")
-    print("USAGE: python3 QRREADER.py (filename)")
+    print("USAGE: python3 "+sys.argv[0]+" (filename)")
     print("\n")
