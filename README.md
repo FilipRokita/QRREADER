@@ -1,2 +1,2 @@
 # QRREADER
-Read QR codes.
+Read QR codes!
